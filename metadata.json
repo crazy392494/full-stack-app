@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FixIt+",
+  "description": "A platform for communities to report and resolve local issues, with an integrated marketplace for necessary products.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
